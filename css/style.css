@@ -281,12 +281,12 @@ span i{
 
 @media(max-width: 720px){
     .left-part{
-        width: 320px;
+        width: 120px;
         height: 450px;
     }
     
     .right-part{
-        width: 420px;
+        width: 220px;
         height: 450px;
         /* padding: 10px; */
     }
