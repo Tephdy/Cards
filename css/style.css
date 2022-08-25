@@ -284,4 +284,8 @@ span i{
         width: 10px !important;
         height: auto !important;
     }
+
+    body{
+        background-color: black;
+    }
 }
