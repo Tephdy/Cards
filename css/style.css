@@ -279,13 +279,9 @@ span i{
     margin-right: 0;
 }
 
-@media(max-width: 360px){
+@media(max-width:360px){
     .card{
-        width: 10px !important;
-        height: auto !important;
-    }
-
-    body{
-        background-color: black;
+        width: 100vw;
+        max-width: 100vw;
     }
 }
