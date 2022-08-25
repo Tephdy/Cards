@@ -281,7 +281,7 @@ span i{
 
 @media(max-width: 720px){
     .card{
-        width: 200px !important;
+        width: 100px !important;
         height: auto !important;
     }
 }
